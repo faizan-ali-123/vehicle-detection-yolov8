@@ -10,7 +10,8 @@ Real-time vehicle detection and counting using YOLOv8.
 
 ## Files
 - `Vehicle_Detection_Project_Code.ipynb` — main notebook (training + inference)
-- `smoke_model_60epochs.pt` — trained YOLOv8 model weights
+- `best.pt` — trained YOLOv8 model weights
+- `data.yaml` — dataset configuration file
 
 ## Dataset
 Custom vehicle dataset in YOLO format (Roboflow export).
