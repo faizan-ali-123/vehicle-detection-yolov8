@@ -1,5 +1,3 @@
-# vehicle-detection-yolov8
-Real-time vehicle detection and counting using YOLOv8
 # Vehicle Detection & Counting (YOLOv8)
 
 Real-time vehicle detection and counting using YOLOv8.
@@ -11,8 +9,8 @@ Real-time vehicle detection and counting using YOLOv8.
 - Python, YOLOv8, OpenCV
 
 ## Files
-- `vehicle_detection.ipynb` — main notebook (training + inference)
-- `best.pt` — trained YOLOv8 model weights
+- `Vehicle_Detection_Project_Code.ipynb` — main notebook (training + inference)
+- `smoke_model_60epochs.pt` — trained YOLOv8 model weights
 
 ## Dataset
 Custom vehicle dataset in YOLO format (Roboflow export).
